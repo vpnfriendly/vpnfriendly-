@@ -1,9 +1,10 @@
 {
-"Version_update": "1.5",
+"Version_update": "1.6",
 "Link_zip":"https://github.com/vpnfriendly/vpnfriendly-/raw/main/vpnfriendly.zip",
 "Password": "249297",
 "Message": "ยินดีต้อนรับสู่ vpn friendly
-03/05/66
+05/05/66
+ปรับปรุงระบบให้เชื่อมต่อง่ายและมีเสถียรภาพขึ้น
 เพิ่มไฟล์ใหม่ให้ใช้งานเพิ่มอีก 5 เซิร์ฟ
 TH-Inet 11-15
 รายการเซิร์ฟเวอร์
